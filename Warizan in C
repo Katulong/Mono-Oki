@@ -1,5 +1,3 @@
-#include <iostream>
-
 int x = 3120345;
 
 int z = 15;
@@ -22,4 +20,5 @@ int main()
     }
     
     printf("\n\nそれでは、おやすみなさい。良い夜を。");
+    return 0;
 }
