@@ -1,4 +1,4 @@
-#include<iostream>
+#include<stdio.h>
 
 int x = 3120345;
 
